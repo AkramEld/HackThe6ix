@@ -8,4 +8,5 @@ scikit-image
 scipy
 slidingwindow
 tqdm
+flask
 git+https://github.com/ppwwyyxx/tensorpack.git
